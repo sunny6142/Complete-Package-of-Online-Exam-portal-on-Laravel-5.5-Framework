@@ -2,6 +2,8 @@
 
 Check live demo [here](http://www.allexamcorner.org)
 
+Contact for any info @ sunny6142@gmail.com or 7905510609
+
 ### Features
 
 - Make exams.
