@@ -1,6 +1,6 @@
 # Complete-Package-of-Online-Exam-portal-on-Laravel-5.5-Framework
 
-Check live demo [here](http://www.allexamcorner.org)
+Check live demo [here](http://www.allexamcorner.com)
 
 Contact for any info @ sunny6142@gmail.com or 7905510609
 
@@ -18,7 +18,7 @@ Contact for any info @ sunny6142@gmail.com or 7905510609
 - Check student rank and result.
 - Add or Delete Student by the institution.
 - Check Attempt and unattempt Question in result along with the correct answer.
-- Student Sign up with payment gateway check out [here](http://www.allexamcorner.org/StudentLogin/3)
+- Student Sign up with payment gateway check out [here](http://www.allexamcorner.com/StudentLogin/24)
 
 ### wesite contain two section : -
 
@@ -29,6 +29,6 @@ Contact for any info @ sunny6142@gmail.com or 7905510609
 
 2. Institution 
 - Sign up for demo
- Click on Institution, demo [here](http://www.allexamcorner.org)
+ Click on Institution, demo [here](http://www.allexamcorner.com)
 
 ![screenshot_2018-09-16 all exam corner conduct you exam with us](https://user-images.githubusercontent.com/23734795/45593917-feefe880-b95e-11e8-84ba-384bfc0ae754.png)
